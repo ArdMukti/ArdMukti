@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello World! 👋
 
-<!--
-**ArdMukti/ArdMukti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **ArD### Mukti**
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Programmer
+- 🌐 Web Developer
+- 📱 App Developer
+- 🛡️ Cybersecurity Enthusiast
+
+## 📚 Currently Learning
+
+- JavaScript
+- Python
+- Linux
+- Networking
+
+## 🎯 Goals
+
+Become a Software Engineer & Cybersecurity Professional.
