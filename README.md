@@ -66,3 +66,5 @@ Discord : @Ard
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArDMukti&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ArDMukti&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArDMukti&layout=compact&theme=tokyonight)
