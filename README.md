@@ -4,8 +4,6 @@
   <img src="banner.png" width="100%" alt="Banner">
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=FF2D55&center=true&vCenter=true&width=850&lines=Code.+Learn.+Secure.+Build.;Always+Learning.;Future+Developer.;Cybersecurity+Enthusiast.;Welcome+to+my+GitHub!"/>
-
 </div>
 
 ---
