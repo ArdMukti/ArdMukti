@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hello+World!;I'm+ArD###+Mukti;Future+Software+Engineer;Web+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+
 <h1 align="center">Hello World! 👋 I'm ArD### Mukti</h1>
 
 <h3 align="center">
