@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,25:400000,60:8B0000,100:FF2D55&text=ArD%20Mukti&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Student%20•%20Future%20Developer%20•%20Cybersecurity%20Enthusiast&descAlignY=60"/>
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner">
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=FF2D55&center=true&vCenter=true&width=850&lines=Code.+Learn.+Secure.+Build.;Always+Learning.;Future+Developer.;Cybersecurity+Enthusiast.;Welcome+to+my+GitHub!"/>
 
