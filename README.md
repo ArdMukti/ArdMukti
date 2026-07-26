@@ -50,21 +50,21 @@ If you've visited my profile, thank you for stopping by. I hope my journey inspi
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArdMukti&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdMukti&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=ff2d55&line=ff2d55&point=ffffff&area=true&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ArdMukti&theme=dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArdMukti&bg_color=0d1117&color=ff2d55&line=ff2d55&point=ffffff&area=true&hide_border=true"/>
 
 </p>
 
@@ -88,7 +88,7 @@ If you've visited my profile, thank you for stopping by. I hope my journey inspi
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=ff2d55&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ArdMukti&label=Profile%20Views&color=ff2d55&style=for-the-badge"/>
 
 </p>
 
@@ -103,8 +103,8 @@ Instagram : @daxxn_00
 Discord : @Ard
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArDMukti&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdMukti&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ArDMukti&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ArdMukti&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArDMukti&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdMukti&layout=compact&theme=tokyonight)
