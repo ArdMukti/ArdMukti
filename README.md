@@ -1,40 +1,61 @@
-## Hello World! 👋
+<h1 align="center">Hello World! 👋 I'm ArD### Mukti</h1>
 
-I'm **ArD### Mukti**
+<h3 align="center">
+Aspiring Programmer • Web Developer • App Developer • Cybersecurity Enthusiast
+</h3>
 
-## 🚀 About Me
+<p align="center">
+Learning one project at a time 🚀
+</p>
 
-- 💻 Programmer
-- 🌐 Web Developer
-- 📱 App Developer
-- 🛡️ Cybersecurity Enthusiast
+---
 
-## 📚 Currently Learning
+## 👨‍💻 About Me
 
+- 🇮🇩 Based in Indonesia
+- 💻 Passionate about Programming & Software Development
+- 🌐 Interested in Web Development
+- 📱 Learning Mobile App Development
+- 🛡️ Exploring Cybersecurity & Networking
+- 📚 Currently learning JavaScript, Python, Git, Linux
+- 🎯 Goal: Become a Software Engineer & Cybersecurity Professional
+
+---
+
+## 🚀 Tech Stack
+
+💻 Languages
+
+- HTML
+- CSS
 - JavaScript
 - Python
+
+🛠 Tools
+
+- Git
+- GitHub
+- VS Code
 - Linux
-- Networking
 
-## 🎯 Goals
+---
 
-Become a Software Engineer & Cybersecurity Professional.
+## 📈 GitHub Stats
 
+(akan muncul otomatis)
 
+---
 
+## 🌱 Currently Working On
 
+- Portfolio Website
+- Learning Backend Development
+- Cybersecurity Lab
+- Open Source Projects
 
+---
 
-![HTML](https://img.shields.io/badge/HTML-orange)
+## 📫 Connect With Me
 
-![CSS](https://img.shields.io/badge/CSS-blue)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-
-![Python](https://img.shields.io/badge/Python-green)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-
-[Instagram](https://www.instagram.com/daxxn_00?igsh=MWJ4NHJhYjBsMXBwZQ==)
-
-[Discord](https://discord.gg/NFgFse2c)
+Instagram : @daxxn_00
+Discord : @Ard
