@@ -61,3 +61,6 @@ Learning one project at a time 🚀
 
 Instagram : @daxxn_00
 Discord : @Ard
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArDMukti&show_icons=true&theme=tokyonight)
